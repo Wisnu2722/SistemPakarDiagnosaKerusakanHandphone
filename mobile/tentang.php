@@ -1,0 +1,1 @@
+<span class=judul_head><center><b>Sistem Pakar Diagnosa Kerusakan Handphone</b></span><br /><br /><tr><td class=isi><div><div>Marzatilah<br/>087006192</div><div><br></div><div>Teknik Informatika<br/>Universitas Siliwangi Tasikmalaya<br/>2012</div></div><div></div>    </p>
